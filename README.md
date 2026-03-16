@@ -16,6 +16,6 @@ Our research focuses on the mechanisms by which humans perceive a "mind" in arti
 
 For more details on our research and the projects developed and published by our students, please visit our website or GitHub Organization!
 
-👉 Miyamoto Lab Website: https://www.t-interaction.lab.uec.ac.jp/
+👉 [Miyamoto Lab Website](https://www.t-interaction.lab.uec.ac.jp/)
 
 👉 [Miyamoto Lab GitHub Organization](https://github.com/t-interaction-lab)
